@@ -18,7 +18,4 @@
 
 </p>
 
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
 
