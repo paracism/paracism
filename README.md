@@ -1,7 +1,7 @@
 <h1 align="center">paracism</h1>
 <h3 align="center">C++ | Reverser</h3>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<img src="[https://de.pinterest.com/pin/6192518230916116/]" alt="Banner" width="100%" />
 
 
 <h3 align="center">Programming Languages</h3>
