@@ -3,7 +3,6 @@
 
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
